@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyuncrypt",
+        "uuid": 14816622,
+        "checksum": "w0wk96"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
